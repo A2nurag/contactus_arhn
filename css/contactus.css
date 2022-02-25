@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @font-face {
   font-family: Monument;
   src: url('../fonts/MonumentExtended-Regular.otf');
@@ -29,6 +29,7 @@ body {
   margin: auto;
   display: flex;
   justify-content: space-between;
+  font-family: 'Poppins', sans-serif;
 }
 
 .side {
